@@ -1,0 +1,17 @@
+{
+  "name": "bc-rocketseat-desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lacsousa/bc-rocketseat-desafio-01.git",
+  "author": "Luciano Cordeiro <lacsousa@yahoo.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
